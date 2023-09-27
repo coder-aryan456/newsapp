@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Biden falls during graduation ceremony",
+    "description": "The US president was shaking hands with an Air Force Academy graduate when he fell on stage.",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-65780853",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3499/production/_129956431_p0frsjpm.jpg",
+    "publishedAt": "2023-06-01T19:07:17.777467Z",
+    "content": "Chinese jet buzzed US military plane, says Pentagon. Video, 00:00:42Chinese jet buzzed US military plane, says Pentagon"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Spirit Airlines and Air Canada delays reported after separate IT issues",
+    "description": "The airlines warn of severe flight delays after both reported technical issues on Thursday.",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-65781203",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1FEF/production/_129957180_gettyimages-1490060736.jpg",
+    "publishedAt": "2023-06-01T18:07:17.8090886Z",
+    "content": "Spirit Airlines said it had resolved a \"technical issue\" that temporarily crashed its website, check-in kiosks and app, causing major delays.\r\nIt blamed a \"network issue between third party services\"… [+1016 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Debt ceiling deal heads to US Senate for approval",
+    "description": "The Senate must approve the deal and send it to the president's desk this weekend to avoid a default.",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-65781359",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/86CA/production/_129960543_gettyimages-1495135070.jpg",
+    "publishedAt": "2023-06-01T17:07:20.5279761Z",
+    "content": "US Senators are working against the clock to pass a deal to raise the government's $31.4tn (£25tn) debt ceiling - and stop the world's biggest economy from defaulting on its debt.\r\nThe deal passed th… [+3001 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Andrew Tate BBC interview: Influencer challenged on misogyny and rape allegations",
+    "description": "This is the influencer's first TV interview with a major broadcaster while under house arrest.",
+    "url": "http://www.bbc.co.uk/news/world-europe-65780107",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/133FD/production/_129954887_andrew_tate_bbc.jpg",
+    "publishedAt": "2023-06-01T16:22:21.9052743Z",
+    "content": "Media caption, Watch: Andrew Tate challenged on misogyny in combative BBC interview\r\nAndrew Tate has denied fuelling a culture of misogyny and defended his reputation in a combative interview with th… [+5599 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Nova Scotia battles its largest wildfire on record",
+    "description": "The Canadian fires have had a wide impact, with air quality warnings issued in the US northeast.",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-65755795",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/14B9E/production/_129949848_d000f76b940b8b0d31eab62bad6d275ac659d20b0_251_4032_22681000x563.jpg",
+    "publishedAt": "2023-06-01T15:52:25.8090811Z",
+    "content": "Media caption, Watch: Aerial view shows scale of Nova Scotia wildfires\r\nFirefighters in Nova Scotia are battling the largest wildfire in the Atlantic province's history. \r\nOfficials say the fire on t… [+3794 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Belgorod: Russia blames Ukraine for shelling inside border",
+    "description": "The defence ministry claims it has also thwarted attempts by Kyiv to \"invade\" the Belgorod region.",
+    "url": "http://www.bbc.co.uk/news/world-europe-65779989",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/CAFD/production/_129956915_belgorodcar.jpg",
+    "publishedAt": "2023-06-01T15:52:23.7470944Z",
+    "content": "The Russian region of Belgorod has again come under attack from across the Ukrainian border, with at least eight people reportedly hurt in shelling. \r\nRussia's defence ministry has also claimed it th… [+3187 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Taylor Swift fans report 'amnesia' following Eras show",
+    "description": "Psychologists say emotions and time may be behind the perfectly normal phenomenon.",
+    "url": "http://www.bbc.co.uk/news/entertainment-arts-65765368",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/65C6/production/_129945062_1dd5ab32-79ab-4c64-b80a-c7811a382d8f.jpg",
+    "publishedAt": "2023-06-01T14:07:21.5754439Z",
+    "content": "You've paid hundreds of dollars for a ticket and braved the pouring rain to watch your favourite artist perform in what should be an unforgettable evening. \r\nBut three hours and over 40 songs later, … [+2966 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Jasmine Hartin: Socialite spared jail after killing Belize police chief",
+    "description": "Jasmin Hartin pleaded guilty in April to manslaughter of a police chief in Belize with his own gun.",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-65770626",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/17B07/production/_129513079_index2-shutterstock_12042236d.jpg",
+    "publishedAt": "2023-06-01T12:22:15.6528383Z",
+    "content": "A Canadian socialite who killed a police chief in Belize with his own gun has reportedly been spared prison time.\r\nJasmine Hartin, 34, was handed a £30,000 fine and 300 hours of community service, ac… [+1729 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Donald Trump recorded saying he kept classified file after leaving office",
+    "description": "Prosecutors investigating the former president's handling of classified files obtain an audio tape.",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-65775163",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/AA5F/production/_129951634_3bf18672d74cd073b9207d27d82fddbcaaa36e930_166_3605_20291000x563.jpg",
+    "publishedAt": "2023-06-01T09:37:19.669627Z",
+    "content": "US prosecutors have obtained an audio recording of Donald Trump in which he acknowledges keeping a classified document after leaving the White House.\r\nCNN first reported that investigators had the ta… [+2657 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "The untold tale of America's first spelling bee victor",
+    "description": "Marie Bolden, a black teenager, won the first US spelling bee in 1908. Her win was eclipsed by racism.",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-65755792",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/16116/production/_129909309_microsoftteams-image-33.png",
+    "publishedAt": "2023-06-01T00:22:15.4516495Z",
+    "content": "In 1908, Marie C Bolden, an African American teenager, became the first-ever spelling bee champion in the US, overcoming tricky words like 'acquiesce', 'descendant' and 'millinery' on her way to the … [+4548 chars]"
+    }
+    ]
+    }
