@@ -1,11 +1,11 @@
-import React, { Component } from 'react'
+
 import { Link } from 'react-router-dom'
-export class Navbar extends Component {
-    render() {
+const Navbar=()=> {
+   
         return (
             <div>
 
-                <nav class="navbar navbar-expand-lg navbar-dark bg-dark" >
+                <nav class=" fixed-top navbar navbar-expand-lg navbar-dark bg-dark" >
                     <div class="container-fluid">
                         <Link class="navbar-brand" to="/">Navbar</Link>
                         <buthrefn class="navbar-hrefggler" type="buthrefn" data-bs-hrefggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="hrefggle navigation">
@@ -42,7 +42,7 @@ export class Navbar extends Component {
 
             </div>
         )
-    }
+    
 }
 
 export default Navbar
